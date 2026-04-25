@@ -1,0 +1,2 @@
+DELETE
+DROP /etc/passwd

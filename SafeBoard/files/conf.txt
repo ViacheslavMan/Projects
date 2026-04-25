@@ -1,0 +1,14 @@
+rm -rf
+exec(
+eval(
+/etc/passwd
+DROP TABLE
+base64_decode
+chmod 777
+wget http
+curl http
+/dev/null
+nc -e
+python -c
+bash -i
+DELETE
